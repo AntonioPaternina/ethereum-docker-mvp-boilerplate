@@ -1,4 +1,11 @@
-# ethereum-docker-mvp-boilerplate
+# Ethereum Docker MVP Boilerplate
+
+## Why a boilerplate project?
+At oneUp.company we often create MVP projects for clients and decided it was better to base these MVP projects on a structured boilerplate instead of starting from scratch all the time.
+
+We use this boilerplate ourself, but encourage anyone to use it and give us some feedback!
+
+## What's in the boilerplate?
 
 This boilerplate consist of 6 applications, each running in its own docker container.
 
